@@ -41,19 +41,4 @@ table#planets {
     margin: 20px 0;
 }
 
-#planets th {
-    background-color: #f2f2f2; 
-    padding: 10px;
-    text-align: center;
-    border: 1px solid #ddd; 
-}
 
-#planets td {
-    padding: 10px;
-    text-align: center; 
-    border: 1px solid #ddd; 
-}
-
-#planets tr:nth-child(even) {
-    background-color: #f9f9f9;
-}
